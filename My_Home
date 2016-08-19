@@ -1,0 +1,8 @@
+speed 5
+fd 30
+lt 90
+fd 10
+rt 120
+fd 80
+rt 120
+fd 80
