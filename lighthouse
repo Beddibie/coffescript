@@ -1,0 +1,11 @@
+pen purple, 2
+fd 60 
+rt 30
+label 'go';fd 40
+dot gold, 30
+rt 120
+fd 40
+rt 30
+fd 60
+rt 90 
+fd 40
