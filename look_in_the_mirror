@@ -1,0 +1,16 @@
+forever 90, ->
+  speed 10
+  dot crimson, 50
+  fd 69
+  bk 69
+  pen black, 10
+  rt 180, 100
+  dot silver, 50
+  rt 100, 50
+  dot maroon, 50
+  fd 100
+  dot darkgreen, 50
+  rt 10
+  fd 100
+  lt 60, 100
+  
