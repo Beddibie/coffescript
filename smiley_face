@@ -1,0 +1,12 @@
+dot yellow, 160
+fd 25
+rt 90
+fd 30
+dot black, 20
+bk 60
+dot black, 20
+rt 90
+fd 40
+pen black, 8
+rt 335
+lt 125, 35
