@@ -1,0 +1,194 @@
+speed 10
+jumpto -300, 275
+dot crimson, 5
+rt 90
+fd 15
+dot silver, 5
+fd 15
+dot gold, 5
+fd 30
+pen darkgrey, 5
+fd 15
+pu()
+fd 15
+dot lightgreen, 5
+fd 15
+pen darkgrey, 5
+fd 15
+pu()
+fd 15
+dot maroon, 5
+fd 30
+pen black, 5
+fd 10
+pu()
+fd 15
+pen black, 5
+fd 10
+pu()
+fd 15
+pen black, 5
+pu()
+pen black, 5
+fd 15
+pu() 
+fd 20
+pen pink, 5 
+fd 10
+pen white, .1
+fd 10
+dot pink, 5
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1
+fd 10
+dot pink, 5
+fd 10
+
+dot pink, 5
+pen white, .1
+fd 10 
+pen pink, 5
+fd 10 
+pen white, .1 
+fd 10
+dot pink, 5
+fd 10
+dot pink, 5 
+fd 10
+pen white, .1
+fd 10 
+
+dot pink, 5
+pen white, .1 
+fd 10 
+pen pink, 5 
+fd 10
+pen white, .1
+fd 10
+
+dot pink, 5 
+fd 10
+pen white, .1
+dot pink, 5 
+fd 10
+pen white, .1
+dot pink, 5 
+fd 10
+pen white, .1
+fd 10
+
+dot pink, 5 
+fd 10
+pen white, .1
+dot pink, 5 
+fd 10
+pen white, .1
+dot pink, 5 
+fd 10
+pen white, .1
+fd 10
+
+pen pink, 5 
+fd 10
+pen white, .1
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1
+fd 10
+
+dot pink, 5 
+fd 10 
+dot pink, 5 
+fd 10 
+pen pink, 5 
+fd 10 
+pen white, .1 
+fd 10 
+dot pink, 5
+fd 10 
+
+rt 90 
+fd 25
+rt 90 
+fd 300
+rt 180
+
+dot pink, 5 
+fd 10
+dot pink, 5 
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+
+dot pink, 5 
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+pen pink, 5 
+fd 10
+pen white, .1 
+fd 10
+dot pink, 5 
+fd 10
+dot pink, 5
