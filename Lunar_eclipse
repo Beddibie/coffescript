@@ -1,0 +1,71 @@
+speed 10000
+pen navy, 5
+for x in [.1..900] by 1
+  rt 30, x
+fd 125
+jumpto -100, -30
+speed 1000
+pen black, 10
+for x in [.1..900] by 1
+  rt 30, x
+fd 125
+jumpto 204, 175
+speed 100
+pen black, 3
+for x in [.1..900] by 1
+  rt 30, x
+fd 125
+jumpto 300, 37
+speed 100
+pen black, 5
+for x in [.1..900] by 1
+  rt 30, x
+fd 125
+jumpto 39, -73
+speed 50
+pen black, 10
+for x in [.1..900] by 1
+  rt 30, x
+dot white, 5
+jumpto 100, 30
+dot white, 3
+jumpto 300, 37
+dot white, 3
+jumpto 27, 5
+dot white, 6
+jumpto -100, -30
+dot white, 3
+jumpto -120, 54
+dot white, 4
+jumpto -54, -57
+dot white, 3
+jumpto 204, 175
+dot white, 3
+jumpto 73, 37
+dot white, 3.5
+jumpto 98, 7
+dot white, 2 
+jumpto 164, 88
+dot white, 3
+jumpto 184, 32
+dot white, 3
+jumpto 178, 15
+dot white, 3
+jumpto 143, 10
+dot white, 3
+jumpto 199, 99
+dot white, 3
+jumpto 102, 21
+dot white, 3
+jumpto 170, 39
+dot white, 3
+speed 10
+jumpto 321, -215
+dot white, 70
+jumpto 249, -101
+dot lightpink, 70
+jumpto 139, -18
+dot pink, 70
+jumpto 20, 55
+dot red, 70
+jumpto
